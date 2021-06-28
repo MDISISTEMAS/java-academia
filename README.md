@@ -1,4 +1,5 @@
-# java-academia
+## java-academia
 # Software de Controle para Academias
-# -- Cadastros:
+
+## -- Cadastros:
 #   Clientes, Funcionarios, Equipamentos
