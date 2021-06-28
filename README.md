@@ -1,5 +1,11 @@
-# java-academia
-# Software de Controle para Academias
+Software de Controle para Academias
 
 -- Cadastros:
-   Clientes, Funcionarios, Equipamentos
+   Alunos, Funcionarios, Equipamentos, Ficha Aluno,
+   Ficha Treino,
+
+-- Relatorios:
+
+-- Controle
+   Tempo de treino nos Equipamentos, Entrada Saida da Academia,
+   Dias de Treino
